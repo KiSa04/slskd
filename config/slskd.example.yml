@@ -182,11 +182,11 @@
 #     password: slskd
 # feature:
 #   swagger: false
-# soulseek:
-#   address: vps.slsknet.org
-#   port: 2271
-#   username: ~
-#   password: ~
+ soulseek:
+   address: vps.slsknet.org
+   port: 2271
+   username: jmf..
+   password: mendes123
 #   description: |
 #     A slskd user. https://github.com/slskd/slskd
 #   listen_ip_address: 0.0.0.0
